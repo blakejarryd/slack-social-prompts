@@ -1,1 +1,184 @@
-{\n  \"prompts\": [\n    {\n      \"prompt\": \"🖥️ Show us your desk setup! What's your favorite item on your desk?\",\n      \"category\": \"workspace\"\n    },\n    {\n      \"prompt\": \"🐾 Pet photo time! Share a picture of your furry (or scaly) friend and tell us their most amusing habit.\",\n      \"category\": \"pets\"\n    },\n    {\n      \"prompt\": \"📚 What's the last great book you read? Share your recommended reads!\",\n      \"category\": \"entertainment\"\n    },\n    {\n      \"prompt\": \"🎵 What song is currently stuck in your head? Drop a link!\",\n      \"category\": \"music\"\n    },\n    {\n      \"prompt\": \"🏃‍♂️ Share your favorite way to stay active during the workday!\",\n      \"category\": \"wellness\"\n    },\n    {\n      \"prompt\": \"☕ Show us your favorite coffee mug and tell us the story behind it!\",\n      \"category\": \"lifestyle\"\n    },\n    {\n      \"prompt\": \"🌱 Plant parents unite! Share a photo of your desk plant (or your most impressive plant at home).\",\n      \"category\": \"lifestyle\"\n    },\n    {\n      \"prompt\": \"🎮 What's your go-to activity for decompressing after work?\",\n      \"category\": \"lifestyle\"\n    },\n    {\n      \"prompt\": \"🍜 What's your favorite lunch spot near the office (or when working from home)?\",\n      \"category\": \"food\"\n    },\n    {\n      \"prompt\": \"💡 Share a productivity hack that's changed your work life!\",\n      \"category\": \"work\"\n    },\n    {\n      \"prompt\": \"🎧 What's your work soundtrack today? Share what you're listening to!\",\n      \"category\": \"music\"\n    },\n    {\n      \"prompt\": \"🌅 Early bird or night owl? Share your ideal work hours and why they work for you!\",\n      \"category\": \"work\"\n    },\n    {\n      \"prompt\": \"📱 What's one app you couldn't live without for work?\",\n      \"category\": \"technology\"\n    },\n    {\n      \"prompt\": \"🏠 Show us your favorite spot in your home office!\",\n      \"category\": \"workspace\"\n    },\n    {\n      \"prompt\": \"🎨 Share something creative you've made recently!\",\n      \"category\": \"creativity\"\n    }\n  ]\n}
+{
+  "prompts": [
+    {
+      "prompt": "🖥️ Show us your desk setup! What's your favorite item on your desk?",
+      "category": "workspace"
+    },
+    {
+      "prompt": "🏠 Show us your favorite spot in your home office!",
+      "category": "workspace"
+    },
+    {
+      "prompt": "🎧 What's your must-have desk accessory that most people might not think of?",
+      "category": "workspace"
+    },
+    {
+      "prompt": "💡 What's one change you made to your workspace that improved your productivity?",
+      "category": "workspace"
+    },
+    {
+      "prompt": "🪟 Natural light, LED strips, or desk lamp? Show us how you light up your workspace!",
+      "category": "workspace"
+    },
+    {
+      "prompt": "🎨 Share your workspace color scheme! What mood were you going for?",
+      "category": "workspace"
+    },
+    {
+      "prompt": "📱 Show us your favorite virtual background for video calls!",
+      "category": "workspace"
+    },
+    {
+      "prompt": "🖼️ What's the most meaningful item or photo you keep in your workspace?",
+      "category": "workspace"
+    },
+    {
+      "prompt": "🐾 Pet owners: Share a picture of your furry friend! Non-pet owners: Share something else that brings you joy at home!",
+      "category": "personal"
+    },
+    {
+      "prompt": "🌱 Plant parents unite! Share a photo of your favorite plant (or another way you bring nature indoors).",
+      "category": "personal"
+    },
+    {
+      "prompt": "☕ Show us your favorite mug and tell us the story behind it!",
+      "category": "personal"
+    },
+    {
+      "prompt": "📸 Share a photo that represents your perfect weekend!",
+      "category": "personal"
+    },
+    {
+      "prompt": "🎨 Show us something you've created recently - art, cooking, craft, anything!",
+      "category": "personal"
+    },
+    {
+      "prompt": "🏡 What's your favorite corner of your home and why?",
+      "category": "personal"
+    },
+    {
+      "prompt": "📚 Show us your current reading nook or favorite spot to relax!",
+      "category": "personal"
+    },
+    {
+      "prompt": "🌟 Share something new you've learned or tried recently!",
+      "category": "personal"
+    },
+    {
+      "prompt": "📚 What's the last great book you read? Share your recommended reads!",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🎵 What song is currently stuck in your head? Drop a link!",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🎮 What's your go-to activity for decompressing after work?",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🎬 What's the best show you've binged recently?",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🎙️ Share your favorite podcast for the commute or background listening!",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🎭 What's the last performance, concert, or live event you attended?",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "📺 What's your guilty pleasure TV show?",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🎸 If your life had a theme song, what would it be?",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🎲 Share your favorite board game or card game!",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "📱 What's your most-used emoji? When do you use it?",
+      "category": "entertainment"
+    },
+    {
+      "prompt": "🏃‍♂️ Share your favorite way to stay active during the workday!",
+      "category": "wellness"
+    },
+    {
+      "prompt": "🧘‍♀️ What's your go-to stress-relief activity during busy workdays?",
+      "category": "wellness"
+    },
+    {
+      "prompt": "🥗 Share your favorite healthy snack for productive workdays!",
+      "category": "wellness"
+    },
+    {
+      "prompt": "⏰ What's your morning routine secret weapon?",
+      "category": "lifestyle"
+    },
+    {
+      "prompt": "🎵 Share your ultimate focus playlist!",
+      "category": "lifestyle"
+    },
+    {
+      "prompt": "🌅 Early bird or night owl? Share your ideal work hours and why they work for you!",
+      "category": "lifestyle"
+    },
+    {
+      "prompt": "🏔️ Show us your favorite outdoor break spot!",
+      "category": "wellness"
+    },
+    {
+      "prompt": "🎨 Share a hobby or project you're excited about right now!",
+      "category": "lifestyle"
+    },
+    {
+      "prompt": "🧪 What's your experimental productivity technique that actually worked?",
+      "category": "wellness"
+    },
+    {
+      "prompt": "🌟 Tell us about a new skill you're currently learning!",
+      "category": "lifestyle"
+    },
+    {
+      "prompt": "🌍 Share a place you love to visit to recharge!",
+      "category": "lifestyle"
+    },
+    {
+      "prompt": "🍳 What's your favorite quick lunch when working from home?",
+      "category": "lifestyle"
+    },
+    {
+      "prompt": "💡 Share a productivity hack that's changed your work life!",
+      "category": "work"
+    },
+    {
+      "prompt": "📱 What's one app you couldn't live without for work?",
+      "category": "technology"
+    },
+    {
+      "prompt": "⌨️ What's your favorite keyboard shortcut that saves you time?",
+      "category": "technology"
+    },
+    {
+      "prompt": "🤖 Share a tech tool that makes your workday easier!",
+      "category": "technology"
+    },
+    {
+      "prompt": "📊 What's your favorite way to track tasks or stay organized?",
+      "category": "work"
+    },
+    {
+      "prompt": "💻 Mac or PC? Share what you use and why you love it!",
+      "category": "technology"
+    },
+    {
+      "prompt": "📈 Share a work achievement you're proud of this month!",
+      "category": "work"
+    }
+  ]
+}
